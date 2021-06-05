@@ -1,0 +1,23 @@
+{
+  "name": "curso_practico_de_node",
+  "version": "1.0.0",
+  "description": "Un breve curso de node donde estaremos poniendo en practica todo lo aprendido.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierReivajG/Curso_Practico_De_Node.js.git"
+  },
+  "author": "JavierReivajG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JavierReivajG/Curso_Practico_De_Node.js/issues"
+  },
+  "homepage": "https://github.com/JavierReivajG/Curso_Practico_De_Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
