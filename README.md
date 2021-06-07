@@ -1,2 +1,2 @@
-# Curso_Practico_De_Node.js
-bueno, momento de continuar aprendiendo node.
+# proyecto-backend-node-platzi
+Proyecto del curso avanzado de backend con NodeJS 
